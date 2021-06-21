@@ -1,4 +1,4 @@
-FROM alpine:3.11
+FROM alpine:3.14
 LABEL maintainer="samuel.txd@gmail.com"
 
 RUN apk add --update-cache \
@@ -6,7 +6,7 @@ RUN apk add --update-cache \
     py-pip \
     build-base
 
-RUN python3 -m pip install dump-env==1.1.1
+RUN python3 -m pip install dump-env==1.3.0
 
 WORKDIR /app
 
