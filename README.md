@@ -30,16 +30,14 @@ In order to run this container you'll need docker installed.
 * [OS X](https://docs.docker.com/mac/started/)
 * [Linux](https://docs.docker.com/linux/started/)
 
-
 #### Volumes
 
 * `/app` - directory that the container starts the dump-env
 
-
 ## Built With
 
-* alpine 3.11
-* dump-env 1.1.1
+* alpine 3.14
+* dump-env 1.3.0
 
 ## Find Us
 
@@ -66,4 +64,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-* [Nikita Sobolev](https://github.com/sobolevn) for having started building the incredible dump-env package
+* [Nikita Sobolev](https://github.com/sobolevn) for having started building the awesome dump-env package
