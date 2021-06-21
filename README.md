@@ -64,4 +64,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-* [Nikita Sobolev](https://github.com/sobolevn) for having started building the awesome dump-env package
+* [Thomas Güttler](https://github.com/guettli) for having started building the awesome dump-env package
